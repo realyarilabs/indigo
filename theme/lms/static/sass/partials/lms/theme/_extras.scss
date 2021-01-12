@@ -89,6 +89,10 @@ header.global-header .nav-links .secondary .dropdown-user-menu {
   text-align: center;
 }
 
+.home > header .title .course-search .search-button {
+  background: $primary;
+}
+
 .animation-home-header-pop-up, .home > header .outer-wrapper {
   animation: none;
 }
@@ -168,7 +172,7 @@ nav.wrapper-preview-menu {
 }
 
 .view-profile .wrapper-profile-section-container-one .wrapper-profile-section-one {
-  border: solid $primary;
+  border: solid #000000;
   border-width: 5px 1px 1px 1px;
 }
 
