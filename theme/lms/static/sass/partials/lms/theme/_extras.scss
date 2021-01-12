@@ -115,6 +115,27 @@ button.action.action-primary.action-update.js-login.login-button {
   border-color: $primary;
 }
 
+.home > header .title .course-search .search-button:hover {
+  background: #ffffff;
+  border-color: $primary;
+  color: $primary;
+}
+
+.find-courses .search-facets .facet-option:hover {
+  background: $primary;
+}
+
+.find-courses .discovery-submit {
+  background: $primary;
+  border-color: $primary;
+}
+
+.find-courses .discovery-submit:hover {
+  background: #ffffff;
+  border-color: $primary;
+  color: $primary;
+}
+
 .courses-container .courses .course {
   border-bottom-color: $primary;
 }
