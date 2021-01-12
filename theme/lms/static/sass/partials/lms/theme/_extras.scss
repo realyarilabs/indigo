@@ -89,7 +89,7 @@ header.global-header .nav-links .secondary .dropdown-user-menu {
   text-align: center;
 }
 
-a.register-btn.btn {
+.global-header .nav-links .secondary a.register-btn {
   border: #000000;
   color: #000000;
 }
@@ -99,7 +99,12 @@ button.action.action-primary.action-update.js-register.register-button {
   border: $primary;
 }
 
-button.search-button {
+button.action.action-primary.action-update.js-login.login-button {
+  background: $primary;
+  border: $primary;
+}
+
+.home > header .title .course-search .search-button {
   background: $primary;
   border: $primary;
 }
