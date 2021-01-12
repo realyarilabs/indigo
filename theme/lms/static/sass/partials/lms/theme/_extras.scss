@@ -89,7 +89,16 @@ header.global-header .nav-links .secondary .dropdown-user-menu {
   text-align: center;
 }
 
-.home > header .title .course-search .search-button {
+.register-btn {
+  border: #000000;
+}
+
+.register-button {
+  background: $primary;
+  border: $primary;
+}
+
+.search-button {
   background: $primary;
 }
 
@@ -210,3 +219,4 @@ nav.wrapper-preview-menu {
       }
   }
 }
+
