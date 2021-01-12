@@ -110,6 +110,10 @@ button.action.action-primary.action-update.js-login.login-button {
   border: $primary;
 }
 
+.courses-container .courses .course {
+  border-bottom-color: $primary;
+}
+
 .animation-home-header-pop-up, .home > header .outer-wrapper {
   animation: none;
 }
