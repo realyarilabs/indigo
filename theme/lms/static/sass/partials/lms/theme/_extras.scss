@@ -94,6 +94,12 @@ header.global-header .nav-links .secondary .dropdown-user-menu {
   color: #000000;
 }
 
+.global-header .nav-links .secondary a.register-btn:hover {
+  background: #000000;
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
 button.action.action-primary.action-update.js-register.register-button {
   background: $primary;
   border-color: $primary;
