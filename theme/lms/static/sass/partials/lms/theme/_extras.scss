@@ -90,24 +90,23 @@ header.global-header .nav-links .secondary .dropdown-user-menu {
 }
 
 .global-header .nav-links .secondary a.register-btn {
-  border-radius: 1px;
-  border: #000000;
+  border-color: #000000;
   color: #000000;
 }
 
 button.action.action-primary.action-update.js-register.register-button {
   background: $primary;
-  border: $primary;
+  border-color: $primary;
 }
 
 button.action.action-primary.action-update.js-login.login-button {
   background: $primary;
-  border: $primary;
+  border-color: $primary;
 }
 
 .home > header .title .course-search .search-button {
   background: $primary;
-  border: $primary;
+  border-color: $primary;
 }
 
 .courses-container .courses .course {
