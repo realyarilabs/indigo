@@ -137,19 +137,19 @@ button.action.action-primary.action-update.js-login.login-button {
 }
 
 .nav-item > a:hover {
-  color: #c2504a;
+  color: #c2504a !important;
 }
 
-button.clear-filters {
+#clear-all-filters, #clear-all-filters:hover {
   color: $primary;
 }
 
-.find-course .loading-spinner {
+#loading-indicator {
   background: $primary;
 }
 
-input[type=text]:focus{
-  outline: 2px solid $primary;     /* oranges! yey */
+#discovery-input:focus{
+  outline: 2px solid $primary;
 }
 
 .courses-container .courses .course {
