@@ -136,6 +136,22 @@ button.action.action-primary.action-update.js-login.login-button {
   color: $primary;
 }
 
+.nav-item > a:hover {
+  color: #c2504a;
+}
+
+button.clear-filters {
+  color: $primary;
+}
+
+.find-course .loading-spinner {
+  background: $primary;
+}
+
+input[type=text]:focus{
+  outline: 2px solid $primary;     /* oranges! yey */
+}
+
 .courses-container .courses .course {
   border-bottom-color: $primary;
 }
